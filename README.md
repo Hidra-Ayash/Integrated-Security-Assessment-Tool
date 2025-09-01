@@ -37,13 +37,14 @@ Libraries: requests, urllib, socket
 Steps
 Clone the Repository:
 
-Bash
+## 1-Bash
 
-git clone https://github.com/your-username/Security-Toolkit.git
+git clone : 
+https://github.com/your-username/Security-Toolkit.git
 cd Security-Toolkit
 Run the Tool:
 
-Bash
+## 2-Bash
 
 python app.py
 Interactive Menu:
