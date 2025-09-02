@@ -22,13 +22,17 @@ def scan_vulnabrity(url):
         
         header=response.headers
         if 'X-Content-Type-Options' not in header:
-            print('The Website will be in dengroius from vulnabrity [MIME]')
+          print("[!] X-Content-Type-Options header is missing.")
+          print("Risk: The site may be vulnerable to MIME-sniffing attacks.")
+          print("Recommendation: Add 'X-Content-Type-Options: nosniff' to prevent the browser from guessing content types.")
         else:
-            print(f"The Website Secure from [MIME] and the X-Content-Type-Options exicted")
+         print("[✓] X-Frame-Options header is present.")
         if 'Content-Secure-Policy' not in header:
-            print('The Website will be in dengroius from Attacks')
+            print("[!] Content-Security-Policy header is missing.")
+            print("Risk: The site may be vulnerable to Cross-Site Scripting (XSS) attacks.")
+            print(" Recommendation: Implement a strict Content-Security-Policy to whitelist allowed sources.")
         else:
-            print(f'The Website Secure and the Content-Secure-Policy exicted')
+         print("[✓] Content-Security-Policy header is present.")
 
     except requests.exceptions.RequestException as r:
          print(f"[-] Error connecting to the site: {r}")

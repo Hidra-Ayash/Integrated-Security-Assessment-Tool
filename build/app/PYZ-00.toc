@@ -1,5 +1,5 @@
-('C:\\Users\\Hidra Ayash\\Desktop\\Python\\Python in '
- 'Cybersecurity\\PROJECT_(1)\\build\\app\\PYZ-00.pyz',
+('C:\\Users\\Hidra Ayash\\Desktop\\Python\\Python in Cybersecurity\\PROJECT '
+ 'ONE\\build\\app\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\Hidra '
    'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\__future__.py',
@@ -41,8 +41,8 @@
    'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_threading_local.py',
    'PYMODULE'),
   ('analys_tool_dev',
-   'C:\\Users\\Hidra Ayash\\Desktop\\Python\\Python in '
-   'Cybersecurity\\PROJECT_(1)\\analys_tool_dev.py',
+   'C:\\Users\\Hidra Ayash\\Desktop\\Python\\Python in Cybersecurity\\PROJECT '
+   'ONE\\analys_tool_dev.py',
    'PYMODULE'),
   ('argparse',
    'C:\\Users\\Hidra '
@@ -709,8 +709,8 @@
    'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pkgutil.py',
    'PYMODULE'),
   ('port_scan',
-   'C:\\Users\\Hidra Ayash\\Desktop\\Python\\Python in '
-   'Cybersecurity\\PROJECT_(1)\\port_scan.py',
+   'C:\\Users\\Hidra Ayash\\Desktop\\Python\\Python in Cybersecurity\\PROJECT '
+   'ONE\\port_scan.py',
    'PYMODULE'),
   ('pprint',
    'C:\\Users\\Hidra '
@@ -1049,8 +1049,8 @@
    'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\wait.py',
    'PYMODULE'),
   ('web_vulnabrity_scanner',
-   'C:\\Users\\Hidra Ayash\\Desktop\\Python\\Python in '
-   'Cybersecurity\\PROJECT_(1)\\web_vulnabrity_scanner.py',
+   'C:\\Users\\Hidra Ayash\\Desktop\\Python\\Python in Cybersecurity\\PROJECT '
+   'ONE\\web_vulnabrity_scanner.py',
    'PYMODULE'),
   ('xml',
    'C:\\Users\\Hidra '

@@ -1,7 +1,7 @@
-(['C:\\Users\\Hidra Ayash\\Desktop\\Python\\Python in '
-  'Cybersecurity\\PROJECT_(1)\\app.py'],
- ['C:\\Users\\Hidra Ayash\\Desktop\\Python\\Python in '
-  'Cybersecurity\\PROJECT_(1)'],
+(['C:\\Users\\Hidra Ayash\\Desktop\\Python\\Python in Cybersecurity\\PROJECT '
+  'ONE\\app.py'],
+ ['C:\\Users\\Hidra Ayash\\Desktop\\Python\\Python in Cybersecurity\\PROJECT '
+  'ONE'],
  [],
  [('C:\\Users\\Hidra '
    'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_pyinstaller',
@@ -35,8 +35,8 @@
    'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
    'PYSOURCE'),
   ('app',
-   'C:\\Users\\Hidra Ayash\\Desktop\\Python\\Python in '
-   'Cybersecurity\\PROJECT_(1)\\app.py',
+   'C:\\Users\\Hidra Ayash\\Desktop\\Python\\Python in Cybersecurity\\PROJECT '
+   'ONE\\app.py',
    'PYSOURCE')],
  [('subprocess',
    'C:\\Users\\Hidra '
@@ -698,17 +698,17 @@
    'C:\\Users\\Hidra '
    'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_colorize.py',
    'PYMODULE'),
-  ('_py_abc',
-   'C:\\Users\\Hidra '
-   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_py_abc.py',
-   'PYMODULE'),
   ('tracemalloc',
    'C:\\Users\\Hidra '
    'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tracemalloc.py',
    'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Hidra '
+   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_py_abc.py',
+   'PYMODULE'),
   ('web_vulnabrity_scanner',
-   'C:\\Users\\Hidra Ayash\\Desktop\\Python\\Python in '
-   'Cybersecurity\\PROJECT_(1)\\web_vulnabrity_scanner.py',
+   'C:\\Users\\Hidra Ayash\\Desktop\\Python\\Python in Cybersecurity\\PROJECT '
+   'ONE\\web_vulnabrity_scanner.py',
    'PYMODULE'),
   ('requests',
    'C:\\Users\\Hidra '
@@ -1147,12 +1147,12 @@
    'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\fetch.py',
    'PYMODULE'),
   ('port_scan',
-   'C:\\Users\\Hidra Ayash\\Desktop\\Python\\Python in '
-   'Cybersecurity\\PROJECT_(1)\\port_scan.py',
+   'C:\\Users\\Hidra Ayash\\Desktop\\Python\\Python in Cybersecurity\\PROJECT '
+   'ONE\\port_scan.py',
    'PYMODULE'),
   ('analys_tool_dev',
-   'C:\\Users\\Hidra Ayash\\Desktop\\Python\\Python in '
-   'Cybersecurity\\PROJECT_(1)\\analys_tool_dev.py',
+   'C:\\Users\\Hidra Ayash\\Desktop\\Python\\Python in Cybersecurity\\PROJECT '
+   'ONE\\analys_tool_dev.py',
    'PYMODULE')],
  [('python313.dll',
    'C:\\Users\\Hidra '
@@ -1249,16 +1249,36 @@
    'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\certifi\\py.typed',
    'DATA'),
   ('base_library.zip',
-   'C:\\Users\\Hidra Ayash\\Desktop\\Python\\Python in '
-   'Cybersecurity\\PROJECT_(1)\\build\\app\\base_library.zip',
+   'C:\\Users\\Hidra Ayash\\Desktop\\Python\\Python in Cybersecurity\\PROJECT '
+   'ONE\\build\\app\\base_library.zip',
    'DATA')],
- [('genericpath',
+ [('copyreg',
    'C:\\Users\\Hidra '
-   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\genericpath.py',
+   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\copyreg.py',
    'PYMODULE'),
-  ('ntpath',
+  ('os',
    'C:\\Users\\Hidra '
-   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ntpath.py',
+   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\os.py',
+   'PYMODULE'),
+  ('functools',
+   'C:\\Users\\Hidra '
+   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\functools.py',
+   'PYMODULE'),
+  ('heapq',
+   'C:\\Users\\Hidra '
+   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\heapq.py',
+   'PYMODULE'),
+  ('_collections_abc',
+   'C:\\Users\\Hidra '
+   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_collections_abc.py',
+   'PYMODULE'),
+  ('sre_constants',
+   'C:\\Users\\Hidra '
+   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sre_constants.py',
+   'PYMODULE'),
+  ('types',
+   'C:\\Users\\Hidra '
+   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\types.py',
    'PYMODULE'),
   ('encodings.zlib_codec',
    'C:\\Users\\Hidra '
@@ -1748,53 +1768,53 @@
    'C:\\Users\\Hidra '
    'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\__init__.py',
    'PYMODULE'),
-  ('_collections_abc',
+  ('collections',
    'C:\\Users\\Hidra '
-   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_collections_abc.py',
-   'PYMODULE'),
-  ('functools',
-   'C:\\Users\\Hidra '
-   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\functools.py',
+   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\collections\\__init__.py',
    'PYMODULE'),
   ('operator',
    'C:\\Users\\Hidra '
    'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\operator.py',
    'PYMODULE'),
-  ('weakref',
+  ('traceback',
    'C:\\Users\\Hidra '
-   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\weakref.py',
-   'PYMODULE'),
-  ('copyreg',
-   'C:\\Users\\Hidra '
-   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\copyreg.py',
-   'PYMODULE'),
-  ('stat',
-   'C:\\Users\\Hidra '
-   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\stat.py',
+   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\traceback.py',
    'PYMODULE'),
   ('sre_parse',
    'C:\\Users\\Hidra '
    'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sre_parse.py',
    'PYMODULE'),
-  ('traceback',
-   'C:\\Users\\Hidra '
-   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\traceback.py',
-   'PYMODULE'),
-  ('abc',
-   'C:\\Users\\Hidra '
-   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\abc.py',
-   'PYMODULE'),
-  ('keyword',
-   'C:\\Users\\Hidra '
-   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\keyword.py',
-   'PYMODULE'),
   ('sre_compile',
    'C:\\Users\\Hidra '
    'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sre_compile.py',
    'PYMODULE'),
-  ('heapq',
+  ('io',
    'C:\\Users\\Hidra '
-   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\heapq.py',
+   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\io.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Users\\Hidra '
+   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\posixpath.py',
+   'PYMODULE'),
+  ('locale',
+   'C:\\Users\\Hidra '
+   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\locale.py',
+   'PYMODULE'),
+  ('reprlib',
+   'C:\\Users\\Hidra '
+   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\reprlib.py',
+   'PYMODULE'),
+  ('linecache',
+   'C:\\Users\\Hidra '
+   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\linecache.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Users\\Hidra '
+   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\stat.py',
+   'PYMODULE'),
+  ('warnings',
+   'C:\\Users\\Hidra '
+   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\warnings.py',
    'PYMODULE'),
   ('re._parser',
    'C:\\Users\\Hidra '
@@ -1816,55 +1836,35 @@
    'C:\\Users\\Hidra '
    'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\__init__.py',
    'PYMODULE'),
-  ('warnings',
+  ('enum',
    'C:\\Users\\Hidra '
-   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\warnings.py',
-   'PYMODULE'),
-  ('io',
-   'C:\\Users\\Hidra '
-   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\io.py',
-   'PYMODULE'),
-  ('reprlib',
-   'C:\\Users\\Hidra '
-   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\reprlib.py',
-   'PYMODULE'),
-  ('posixpath',
-   'C:\\Users\\Hidra '
-   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\posixpath.py',
-   'PYMODULE'),
-  ('collections',
-   'C:\\Users\\Hidra '
-   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\collections\\__init__.py',
-   'PYMODULE'),
-  ('linecache',
-   'C:\\Users\\Hidra '
-   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\linecache.py',
-   'PYMODULE'),
-  ('codecs',
-   'C:\\Users\\Hidra '
-   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\codecs.py',
-   'PYMODULE'),
-  ('os',
-   'C:\\Users\\Hidra '
-   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\os.py',
-   'PYMODULE'),
-  ('sre_constants',
-   'C:\\Users\\Hidra '
-   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sre_constants.py',
-   'PYMODULE'),
-  ('locale',
-   'C:\\Users\\Hidra '
-   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\locale.py',
-   'PYMODULE'),
-  ('types',
-   'C:\\Users\\Hidra '
-   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\types.py',
+   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\enum.py',
    'PYMODULE'),
   ('_weakrefset',
    'C:\\Users\\Hidra '
    'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_weakrefset.py',
    'PYMODULE'),
-  ('enum',
+  ('keyword',
    'C:\\Users\\Hidra '
-   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\enum.py',
+   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\keyword.py',
+   'PYMODULE'),
+  ('weakref',
+   'C:\\Users\\Hidra '
+   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\weakref.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Users\\Hidra '
+   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\genericpath.py',
+   'PYMODULE'),
+  ('codecs',
+   'C:\\Users\\Hidra '
+   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\codecs.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Users\\Hidra '
+   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ntpath.py',
+   'PYMODULE'),
+  ('abc',
+   'C:\\Users\\Hidra '
+   'Ayash\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\abc.py',
    'PYMODULE')])
